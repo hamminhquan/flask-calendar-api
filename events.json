@@ -1,0 +1,57 @@
+[
+    {
+        "title": "함민권",
+        "date": "2025-03-28",
+        "time": "12:44",
+        "endDate": "2025-03-29",
+        "importance": "자동 판단",
+        "id": 1,
+        "type": "이벤트"
+    },
+    {
+        "title": "계획서 마감",
+        "date": "2025-03-29",
+        "time": "12:45",
+        "endDate": "",
+        "importance": "긴급",
+        "id": 2,
+        "type": "이벤트",
+        "pre_notified": false
+    },
+    {
+        "title": "해커톤",
+        "date": "2025-03-20",
+        "time": "20:00",
+        "endDate": "2025-03-28",
+        "importance": "자동 판단",
+        "id": 3,
+        "type": "이벤트"
+    },
+    {
+        "title": "수과연 ",
+        "date": "2025-03-31",
+        "time": "19:01",
+        "endDate": "",
+        "importance": "자동 판단",
+        "id": 4,
+        "type": "이벤트"
+    },
+    {
+        "title": "운동",
+        "date": "2025-03-26",
+        "time": "20:02",
+        "endDate": "",
+        "importance": "보통",
+        "id": 5,
+        "type": "이벤트"
+    },
+    {
+        "title": "운동 가기",
+        "date": "2025-03-28",
+        "time": "20:04",
+        "endDate": "",
+        "importance": "보통",
+        "id": 6,
+        "type": "이벤트"
+    }
+]
